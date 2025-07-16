@@ -24,7 +24,7 @@
 <p align="left">🚀 FullStack / Backend Developer | .NET | Node.js | TypeScript<br><br>- 🔭 I’m working as a Full Stack .Net Developer<br>- 📚 I'm currently learning Java/Spring Boot <br>- ⚡ In my free time I like to make web apps with react and node.js</p>
 
 ###
-
+<h3 align="left">📲 Contact me</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/thiago-candido-739346334/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
