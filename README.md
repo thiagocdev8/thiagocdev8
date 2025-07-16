@@ -132,7 +132,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/thiagocdev8/thiagocdev8/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
