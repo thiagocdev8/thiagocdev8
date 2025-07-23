@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🚀 FullStack / Backend Developer | .NET | Java | TypeScript<br><br>- 🔭 I’m working as a Full Stack .Net Developer<br>- 📚 I'm currently working towards perfecting Java/Spring Boot <br>- ⚡ In my free time I like to make web apps with react and node.js</p>
+<p align="left">🚀 FullStack / Backend Developer | .NET | Java | TypeScript<br><br>- 🔭 I’m working as a Full Stack .Net Developer<br>- 📚 I'm currently working towards perfecting Java/Spring Boot <br>- ⚡ In my free time I like to make web apps with Go</p>
 
 ###
 <h3 align="left">📲 Contact me</h3>
