@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🚀 FullStack / Backend Developer | Java | Go | Mobile <br><br>- 🔭 I’m working as a Full Stack Developer/Mobile Developer (Java/Flutter)<br>- 📚 I'm currently working towards perfecting Java/Spring <br>- ⚡ In my free time I like to make web apps with Go and Mobile Apps with Flutter or React Native</p>
+<p align="left">🚀 Backend/Mobile Developer | Java | Go | Mobile <br><br>- 🔭 I’m working as a Full Stack Developer/Mobile Developer (Java/Flutter)<br>- 📚 I'm currently working towards perfecting Java/Spring <br>- ⚡ In my free time I like to make web apps with Go and Mobile Apps with Flutter or React Native</p>
 
 ###
 <h3 align="left">📲 Contact me</h3>
@@ -120,11 +120,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
 </div>
 
 ###
@@ -145,23 +142,21 @@
 
 ###
 
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiagocdev8/thiagocdev8/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thiagocdev8/thiagocdev8/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thiagocdev8/thiagocdev8/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-
-
-###
-
 
 
 ###
 
-<br clear="both">
+
+
+###
+
 
 
 
