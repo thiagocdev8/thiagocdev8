@@ -58,16 +58,15 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png" height="60" alt="android logo"  />
   <img width="12" />
-<!--   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png" height="60" alt="ios logo"  /> -->
-<!--   <img width="12" /> -->
-<!--   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png" height="60" alt="swift logo"  /> -->
-<!--   <img width="12" /> -->
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" height="50" alt="dart logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" height="50" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="50" alt="react native logo"  />
-  <img width="12" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png" height="60" alt="ios logo"  /> -->
+  <img width="12" /> 
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png" height="60" alt="swift logo"  /> -->
+  <img width="12" /> 
+ 
  
 
   
