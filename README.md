@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🚀 Backend/Mobile Developer | Java | Kotlin | Flutter <br> <br>- 🔭 I’m employed as a Full Stack Developer/Mobile Developer (Java/Kotlin)<br>- 📚 I'm currently working towards perfecting Java/Spring scalable backend systems<br>- ⚡ In my free time I like to make Mobile Apps with Flutter<br>- 📱 Android Enthusiast / Android Practitioner 📱</p>
+<p align="left">🚀 Backend/Mobile Developer | Java | Kotlin | Android <br> <br>- 🔭 I’m employed as a Full Stack Developer/Mobile Developer (Java/Kotlin)<br>- 📚 I'm currently working towards perfecting Java/Spring scalable backend systems<br>- ⚡ In my free time I like to make Mobile apps and Web APIs <br>- 📱 Android Enthusiast / Android Practitioner 📱</p>
 
 ###
 <h3 align="left">📲 Contact me</h3>
