@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🚀 Software Developer | Java | C#/.NET |Typescript <br> <br>- 🔭 I’m employed as a Full Stack Developer/Mobile Developer (Java/C#/.NET)<br>- 📚 I'm currently working towards perfecting Java/Spring scalable backend systems<br>- ⚡ In my free time I like to make Mobile apps and Web APIs <br></p>
+<p align="left">🚀 Software Developer | Java | C#/.NET | Typescript <br> <br>- 🔭 I’m employed as a Full Stack Developer/Mobile Developer (Java/C#/.NET)<br>- 📚 I'm currently working towards perfecting Java/Spring scalable backend systems<br>- ⚡ In my free time I like to make Mobile apps and Web APIs <br></p>
 
 ###
 <h3 align="left">📲 Contact me</h3>
