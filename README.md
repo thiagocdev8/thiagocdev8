@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🚀 Software Developer | Java | Typescript | Go <br> <br>- 🔭 I’m employed as a Full Stack Developer/Mobile Developer (Java/Android)<br>- 📚 I'm currently working towards perfecting Java/Spring scalable backend systems<br>- ⚡ In my free time I like to make Mobile apps and Web APIs <br></p>
+<p align="left">🚀 Software Developer | Java | Typescript | Android <br> <br>- 🔭 I’m employed as a Full Stack Developer/Mobile Developer (Java/Android)<br>- 📚 I'm currently working towards perfecting Java/Spring scalable backend systems<br>- ⚡ In my free time I like to make Mobile apps and Web APIs <br></p>
 
 ###
 <h3 align="left">📲 Contact me</h3>
