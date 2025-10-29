@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🚀 Software Developer | Mobile Engineer | Android & iOS <br> <br>- 🔭 I’m employed as a Full Stack Developer/Mobile Developer (Java/Android)<br>- 📚 I'm currently working towards perfecting Java/Spring scalable backend systems<br>- ⚡ In my free time I like to make Mobile apps and Web APIs <br></p>
+<p align="left">🚀 Software Developer | Java Enthusiast | .NET enjoyer <br> <br>- 🔭 I’m employed as a Full Stack Developer/Mobile Developer (Java/Android)<br>- 📚 I'm currently working towards perfecting Java/Spring scalable backend systems<br>- ⚡ In my free time I like to make Mobile apps and Web APIs <br></p>
 
 ###
 <h3 align="left">📲 Contact me</h3>
@@ -45,26 +45,20 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" height="66" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" alt="kotlin logo"  />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="60" alt="android logo"  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring logo"  />
   <img width="12" />
 
-
-  
- 
-  
 </div>
 
 ###
 
 <div align="left">
   
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="53" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
   <img width="12" />
  
  
@@ -74,12 +68,12 @@
 
 <div align="left">
   
- 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="60" alt="dart logo"  />
+ <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   
 </div>
 
